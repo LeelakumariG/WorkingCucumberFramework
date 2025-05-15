@@ -14,7 +14,7 @@ import org.openqa.selenium.*;
 public class StandAloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
-
+// demo update
 		WebDriver driver = new ChromeDriver();
 
 		String productName = "ZARA COAT 3";
