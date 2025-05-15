@@ -1,0 +1,8 @@
+com\org\main\resources\ExtentReportsNG.class
+com\org\main\pageobject\ProductCatalogue.class
+com\org\main\AbstractComponents\AbstractComponents.class
+com\org\main\pageobject\CheckoutPage.class
+com\org\main\pageobject\CartPage.class
+com\org\main\pageobject\SuccessPage.class
+com\org\main\pageobject\LoginPage.class
+com\org\main\pageobject\OrderPage.class
